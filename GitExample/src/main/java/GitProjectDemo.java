@@ -10,6 +10,7 @@ public class GitProjectDemo {
 	}
 	public static void showMe() {
 		System.out.println("Another person can also edit my project");
+		System.out.println("today");
 	}
 
 }
